@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="BookLibrary">
+      <HintPath>..\..\BookLibrary\BookLibrary\bin\Debug\net5.0\BookLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
